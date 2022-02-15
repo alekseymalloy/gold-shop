@@ -1,0 +1,81 @@
+.kaltso-fon1 {
+    background-image: url(/img/foto22.png);
+    width: auto;
+    height: 385px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    background-position: center;
+    z-index: -1;
+
+}
+.kaltso-fon2 {
+    background-image: url(/img/foto22.png);
+    width: auto;
+    height: 385px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    background-position: center;
+    z-index: -1;
+
+}
+.kaltso-fon3 {
+    background-image: url(/img/foto33.png);
+    width: auto;
+    height: 385px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    background-position: center;
+    z-index: -1;
+
+}
+.kaltso-fon4 {
+    background-image: url(/img/foto44.png);
+    width: auto;
+    height: 385px;
+    background-repeat: no-repeat;
+    margin: 20px;
+    background-position: center;
+    z-index: -1;
+
+}
+
+.btn-foto-text {
+    z-index: 1;
+    padding-top: 40vh;
+    width: auto;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    align-items: stretch;
+
+}
+
+.btn-outline-light {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    border-color: #020F59;
+    color: #020F59;
+    border-right: 0px;
+    border-left: 0px;
+    border-radius: 0px;
+}
+
+.katalog-fon {
+    background: #020F59;
+    max-width: 100%;
+    height: auto;
+
+    .katalog-text {
+        padding-top: 93px;
+        margin-bottom: 50px;
+        font-family: Raleway;
+        font-size: 45px;
+        line-height: 53px;
+        text-align: center;
+        letter-spacing: 0.05em;
+        color: #FFFFFF;
+    }
+}

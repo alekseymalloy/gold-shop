@@ -1,0 +1,8 @@
+    "svgSprive": "gulp svgSprive"   для запуска иконок  $ npm run svgSprive
+      
+      
+        "dev" : "gulp", 
+
+
+npm run dev режим разраба
+npm run build режим продакшин 

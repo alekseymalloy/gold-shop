@@ -1,0 +1,123 @@
+.container-sozday {
+    background-repeat: no-repeat;
+    background-image: url(/img/koltso-zakaz.png);
+    background-size: contain;
+    width: 100%;
+    height: 455px;
+    padding: 72px 0 0 107px;
+
+
+}
+
+h1.sozday-screen__title {
+    max-width: 690px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 53px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.sozday-screen__subtitle {
+    max-width: 607px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.btn-one.btn-primary {
+    margin: 25px 0;
+
+    a {
+        color: white;
+        list-style-type: none;
+        text-decoration: none;
+    }
+}
+
+.primery-raboty {
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 53px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.container-delaem {
+    background-color: #020F59;
+    height: 1163px;
+    width: 100%;
+}
+.epat-text{
+    padding: 100px 0 50px 0;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 53px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.fon-etap {
+    margin: 20px    ;
+    padding:20px 120px 20px 60px;
+    max-width: 645px;
+    height: 100%;
+    background-repeat: no-repeat;
+    // background-size: contain;
+    background-image: url(/img/etap1.png);
+}
+
+.etap {
+margin-top: 44px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.title-etap {
+margin-top: 18px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 35px;
+    text-transform: uppercase;
+    color: #020F59;
+}
+
+.sutitle-etap {
+    margin-top: 12px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.dni-etap {
+    margin-top: 100px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    opacity: 0.5;
+}

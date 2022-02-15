@@ -1,0 +1,55 @@
+@media (max-width: 1233px) {
+
+    .time-work,
+    .telephone,
+    .adress {
+        font-size: 10px;
+    }
+
+    .container.header-row {
+        padding-left: 10px;
+        padding-right: 10px;
+
+        .modal-burger {
+            margin-left: 0;
+        }
+    }
+
+}
+
+@media (max-width: 770px) {
+
+    .time-work,
+    .telephone,
+    .icon-pin,
+    .icon-mail {
+        font-size: 5px;
+    }
+
+    .navbar-nav,
+    .telephone,
+    .time-work,
+    .adress {
+        display: none;
+    }
+
+    .info-row.row {
+        padding-left: 10px;
+        padding-right: 10px;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        flex-wrap: wrap;
+    }
+    
+}
+.osoben,
+.new-koltso-row {
+    margin-top: 0;
+    padding: 0 50px; 
+    margin-bottom: 0;
+}
+
+@media (min-width: 769px) {}
+
+

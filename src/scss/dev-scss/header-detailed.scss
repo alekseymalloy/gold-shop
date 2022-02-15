@@ -1,0 +1,93 @@
+//вторая шапка
+
+.container-fluid {
+    padding: 5px 70px 0 77px;
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li.nav-item {
+    padding-right: 24px;
+
+}
+ul.navbar-nav {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+
+
+a.nav-link {
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 120%;
+    color: #000000;
+    text-decoration: none;
+}
+
+.search {
+    display: flex;
+}
+// button.btn {
+//     background-color: #fff0;
+//     border: #fff0;
+// }
+
+.form-control {
+    color: #9EAFC2;
+    border: 0;
+    border-bottom: 1px solid #ECEFF3;
+}
+
+
+.art-rings {
+    padding-top: 27px;
+    color: #00000080;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 59px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-decoration: none;
+
+    a:visited {
+        color: #800080;
+        /* Цвет посещённой ссылки */
+    }
+
+    a:hover {
+        color: black;
+    }
+}
+
+.moscow {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #00000080;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    flex-wrap: nowrap;
+    justify-content: center;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: black;
+}
